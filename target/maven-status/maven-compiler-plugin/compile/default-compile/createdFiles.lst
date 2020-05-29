@@ -1,0 +1,8 @@
+com\amazon\ask\colorpicker\ColorPickerStreamHandler.class
+com\amazon\ask\colorpicker\handlers\CancelandStopIntentHandler.class
+com\amazon\ask\colorpicker\handlers\SessionEndedRequestHandler.class
+com\amazon\ask\colorpicker\handlers\MyColorIsIntentHandler.class
+com\amazon\ask\colorpicker\handlers\WhatsMyColorIntentHandler.class
+com\amazon\ask\colorpicker\handlers\HelpIntentHandler.class
+com\amazon\ask\colorpicker\handlers\LaunchRequestHandler.class
+com\amazon\ask\colorpicker\handlers\FallbackIntentHandler.class
